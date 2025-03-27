@@ -8,7 +8,7 @@ import EducationForm from './EducationForm'
 import SkillsForm from './SkilsForm'
 import { Link, Navigate, useParams } from 'react-router-dom'
 import ViewResume from '@/my-resume/[resumeId]/view/ViewResume'
-import ThemeColor from './Themecolor'
+import ThemeColor from './ThemeColor'
 
 const FormSection = () => {
 
