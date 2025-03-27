@@ -27,15 +27,6 @@ The AI Resume Builder is an intelligent platform that helps job seekers create p
 Access the AI Resume Builder directly at:  
 [www.yourresumebuilder.com](https://www.yourresumebuilder.com)
 
-## Usage Examples 💡
-
-```prompt
-"Create a resume for a software engineer with 5 years of experience in Python and JavaScript, currently looking for senior developer roles at tech startups."
-```
-
-```prompt
-"Generate a resume for a recent business graduate with internship experience in marketing and proficiency in Google Analytics."
-```
 
 ## Tech Stack 🔧
 
